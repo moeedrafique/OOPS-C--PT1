@@ -52,8 +52,8 @@ namespace Task1
             Robot robot2 = new Robot();
             robot2.Name = "Eve";
             robot2.Home = "Earth";
-            robot2.Occupation = "Mars Minister";
-            robot2.Weight = 50;
+            robot2.Occupation = "Earth Minister";
+            robot2.Weight = 42;
             label2.Text = robot2.Introduce();
         }
 
